@@ -10,7 +10,7 @@ Hello, I'm tech lead from VMO
 
 git add => wrap new code into Staging area
 git add feature add new student from Athena
-
+git add feature add classes
 
 
 
